@@ -1,0 +1,5 @@
+terraform.tfstate
+terraform.tfstate.backup
+*.terraform*
+*terraform.*
+*terraform_1.2.8_linux_amd64.zip
